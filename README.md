@@ -3,7 +3,6 @@ An offline inventory management system implemented using C++
 
 What does the project do?
 -------------------------
-With the implementation of my inventory management system, it will become much easier for me to log in whatever possessions/items of mine I have and wish to
-store over the summer. Luckily, this is not the only application of an inventory system. Suppose you control the supplies of an office or factory, it would be
-essential for you to know what all is in your current inventory.
+This program is an interactive inventory manager. It asks the user how many items they wish to store and later, how many of those they wish to remove. Furthermore, after each series of changes made to the inventory, the program prints the current state to let the user see it.  
+With the implementation of my inventory management system, it will become much easier for me to log in whatever possessions/items of mine I have and wish to store over the summer. Luckily, this is not the only application of an inventory system. Suppose you control the supplies of an office or factory, it would be essential for you to know what all is in your current inventory.
 
